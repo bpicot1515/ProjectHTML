@@ -1,5 +1,5 @@
 # ProjectHTML
-Projet pour le cours de HTML/Java en 4A de SAGI
+Projet pour le cours de HTML5/javascript en 4A de SAGI
 
 Projet : Qui est le plus ?
 
