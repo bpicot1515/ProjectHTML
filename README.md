@@ -7,4 +7,4 @@ Site internet sur lequel se connectent des amis et répondent à des qustions su
 
 Les participants peuvent créer et rejoindre des groupes privés.
 
-Projet par : Clément GAUTRET, Maxime MOREAU, Rémi REULIER
+Projet par : Clément GAUTRET, Maxime MOREAU, Rémi REULIER, Bosco-Marie PICOT DE MORAS D'ALIGNY
